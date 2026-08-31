@@ -1,0 +1,29 @@
+
+=== Sun May 31 23:06:43 2026
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.modules.adaptiveperformance@1.0.0
+  com.unity.modules.vectorgraphics@1.0.0
+  com.unity.modules.accessibility@1.0.0
+  com.unity.multiplayer.center@1.0.1
+The following packages were updated:
+  com.unity.feature.development from version 1.0.1 to 1.0.2
+  com.unity.formats.fbx from version 4.2.1 to 5.1.4
+  com.unity.timeline from version 1.7.6 to 1.8.10
+  com.unity.ugui from version 1.0.0 to 2.0.0
+  com.unity.visualscripting from version 1.9.4 to 1.9.9
+  com.unity.xr.openxr from version 1.14.1 to 1.16.1
+The following packages were removed:
+  com.unity.textmeshpro@3.0.7
+
+=== Sat Aug 22 23:21:18 2026
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.timeline from version 1.8.10 to 1.8.12
+  com.unity.visualscripting from version 1.9.9 to 1.9.11
